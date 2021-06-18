@@ -1,0 +1,7 @@
+[book]
+authors = ["Atharva Raykar"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The UniFOSS Canon"
+description = "A guide to navigating UniFOSS."
