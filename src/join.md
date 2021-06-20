@@ -28,7 +28,7 @@ It is also your responsibility to help them assimilate into the UniFOSS communit
 
 - Invite people you trust to be active in our communities activities, be it through discourse, meetups, Unit activities etc.
 - Prefer inviting people who can add to the diversity of our community – whether it be diversity of fields of interest, gender, socio-cultural backgrounds etc.
-- Ensure that your contact is made aware of our [Code of Conduct]()
+- Ensure that your contact is made aware of our [Code of Conduct](./code-of-conduct.md)
 - Do _not_ invite people you have barely met or known. If they have demonstrated that they can provide value to our communities, but you don't know them well, inform the UniFOSS core team about this and we'll collectively make a decision.
 
 [^1]: as of now, Atharva Raykar

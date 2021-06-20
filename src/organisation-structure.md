@@ -10,7 +10,7 @@ UniFOSS obviously is comprised of individuals – who may or may not be a part o
 
 A Unit can be any FOSS community, or a group of individuals with a specific goal or cause. It can either be a FOSS project, or an existing college club. A Unit is in no way subordinate to UniFOSS. They are completely autonomous and can be organised in any way they prefer. The only requirement for a Unit is they need to adopt a clear Code of Conduct[1] that is reliably enforced.
 
-If you are starting your own Unit, and need some pointers for how they can be organised, have a look at our [guide]().
+If you are starting your own Unit, and need some pointers for how they can be organised, have a look at our [guide](./guides/starting-a-unit.md).
 
 UniFOSS will disaffiliate with any Unit that fails to keep a high standard of behaviour. Harrassment of any kind is not tolerated.
 
