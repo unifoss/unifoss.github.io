@@ -8,9 +8,9 @@ That said, here are some ideas, put into broad categories for your inspiration.
 
 ## Units and SIGs
 
-- Have a look at what various [Units]() and [SIGs]() are upto and be a part of their activities – it is quite possible that being a part of their activities led you to UniFOSS in the first place.
-- [Create your own Unit]() by teaming up with other members in the UniFOSS community. Almost all the activities we suggest here can be done as a part of an existing Unit, or one that you have created. A Unit can be associated with an existing project, community or movement.
-- If you are a part of a FOSS community, you can have your members connect with the wider FOSS community at UniFOSS – just follow the [invitation]() process.
+- Have a look at what various [Units](./organisation-structure.md#unit) and [SIGs](./organisation-structure.md#special-interest-group) are upto and be a part of their activities – it is quite possible that being a part of their activities led you to UniFOSS in the first place.
+- [Create your own Unit](./guides/starting-a-unit.md) by teaming up with other members in the UniFOSS community. Almost all the activities we suggest here can be done as a part of an existing Unit, or one that you have created. A Unit can be associated with an existing project, community or movement.
+- If you are a part of a FOSS community, you can have your members connect with the wider FOSS community at UniFOSS – just follow the [invitation](./join.md) process.
 
 ## Discourse
 
