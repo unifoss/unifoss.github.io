@@ -24,7 +24,7 @@ With those two out of the way, make sure you have fulfilled these requirements:
 
 - You must adopt a properly enforced Code of Conduct.
 
-    We have made this easy for you. If you do not explicitly create or adopt your own Code of Conduct, our [Unit Code of Conduct](unit-code-of-conduct.md) will apply to your Unit. You must have your Code of Conduct publicly accessible in your Unit's organisation page.
+    We have made this easy for you. If you do not explicitly create or adopt your own Code of Conduct, our [Unit Code of Conduct](../unit-code-of-conduct.md) will apply to your Unit. You must have your Code of Conduct publicly accessible in your Unit's organisation page.
 
 - You must have a public email address associated with your Unit.
 
