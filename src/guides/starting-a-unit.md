@@ -14,13 +14,13 @@ With those two out of the way, make sure you have fulfilled these requirements:
 
 - At least three active members to start with.
 
-There is no upper bound to the number of members of course.
+    There is no upper bound to the number of members of course.
 
 - A publicly available organisation page.
 
-This can be a website, GitHub or GitLab organisation, or any platform that can host your activities, and from which people can learn about your Unit.
+    This can be a website, GitHub or GitLab organisation, or any platform that can host your activities, and from which people can learn about your Unit.
 
-You will be responsible for your own branding and expression. As a Unit, you have full autonomy over everything you do and how your community is managed, the only caveat being,
+    You will be responsible for your own branding and expression. As a Unit, you have full autonomy over everything you do and how your community is managed, the only caveat being,
 
 - You must adopt a properly enforced Code of Conduct.
 
@@ -28,4 +28,4 @@ You will be responsible for your own branding and expression. As a Unit, you hav
 
 - You must have a public email address associated with your Unit.
 
-This is to ensure that you can be contacted reliably, and also so that people have an outlet to report Code of Conduct violations.
+    This is to ensure that you can be contacted reliably, and also so that people have an outlet to report Code of Conduct violations.
